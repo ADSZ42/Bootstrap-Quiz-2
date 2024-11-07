@@ -1,0 +1,40 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.cntrTx{
+    text-align: center;
+}
+
+.bgBl{
+    background-color:blue ;
+}
+
+.bgRe{
+    background-color:darkred ;
+}
+
+.bgGr{
+    background-color:greenyellow ;
+}
+
+.bgCy{
+    background-color:cyan ;
+}
+
+.bgN{
+    background-color:gray ;
+}
+
+.bgtn{
+    background-color: tan;
+}
+
+.btm{
+    padding-bottom: 0;
+}
